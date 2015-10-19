@@ -9,7 +9,8 @@
 	font-size: 1em;
 }
 html,body {
-	font-family: sans-serif, serif, monospace, cursive, fantasy;
+	/*font-family: sans-serif, serif, monospace, cursive, fantasy;*/
+	font-family:Arial,'Times New Roman',Helvetica,Arial,Vernada,Tahoma,STXihei,"Microsoft YaHei",SimSun,Heiti,sans-serif;
 	background-color: white;
 }
 h1,h2,h3,h4,h5,h6 {
