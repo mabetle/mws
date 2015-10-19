@@ -1,0 +1,3 @@
+
+GET /mws/public/*filepath      Static.ServeModule(mws,public)
+
