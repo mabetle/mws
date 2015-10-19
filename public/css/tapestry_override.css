@@ -23,6 +23,7 @@ dl.t-beandisplay {
 dl.t-beandisplay dt {
 	color: green;
 	width: 250px;
+	min-height: 16px;
 	display: block;
 	float: left;
 	text-align: right;
@@ -36,6 +37,7 @@ dl.t-beandisplay dt {
 dl.t-beandisplay dd {
 	color: blue;
 	display: block;
+	min-height: 16px;
 	-webkit-margin-start: 40px;
 }
 .t-beandisplay-label {
