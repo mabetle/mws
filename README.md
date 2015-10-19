@@ -1,0 +1,2 @@
+# mws
+Mabetle Web Static
